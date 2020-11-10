@@ -1,6 +1,6 @@
-jupyter
-jupyterlab
-pandas
-scikit-learn
-seaborn
-kaggle
+jupyter==1.0.0
+jupyterlab>=2.2.9
+pandas>=1.1.4
+scikit-learn>=0.23.2
+seaborn>=0.11.0
+kaggle>=1.5.0
