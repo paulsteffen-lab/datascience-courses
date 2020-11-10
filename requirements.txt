@@ -1,0 +1,6 @@
+jupyter
+jupyterlab
+pandas
+scikit-learn
+seaborn
+kaggle
