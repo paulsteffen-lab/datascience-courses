@@ -37,7 +37,7 @@ pip install -r requirements.txt
 ```
 
 ### 2. Download Titanic data
-First, get a `kaggle.json` containing Kaggle username and key by following the procedure in **API credentials** in the following [webpage](https://github.com/Kaggle/kaggle-api) and place this file as described.  
+First, get a `kaggle.json` containing Kaggle username and key by following the procedure in **API credentials** in the following [webpage](https://github.com/Kaggle/kaggle-api#api-credentials) and place this file as described.  
 Then, change directory in the data subfolder, and download titanic data with the following command.
 
 ```sh
@@ -46,6 +46,9 @@ kaggle competitions download -c titanic
 ```
 
 Finally, unzip `titanic.zip`.
+```sh
+unzip titanic.zip -d titanic
+```
 
 
 
