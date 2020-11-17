@@ -1,0 +1,7 @@
+{
+	"LEARNING_0": "**What type of learning problem is it ?**",
+	"LEARNING_1": "**What type of supervised learning is it ?**",
+	"LEARNING_2": "**What type of classification is it ?**",
+	"FEATURES": "**How many features are used for this problem ?**",
+	"SAMPLES": "**How many samples are used for this problem ?**"
+}

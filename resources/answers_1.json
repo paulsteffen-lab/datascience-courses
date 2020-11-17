@@ -1,0 +1,16 @@
+{
+	"IRIS_LEARNING_0": "It's a **Supervised learning** problem, we have a target value which is the flower specie.",
+	"IRIS_LEARNING_1": "It's a **Classification** problem, we have to predict the class of unlabeled data. It's a discrete problem.",
+	"IRIS_LEARNING_2": "It's a **Multiclass classification** problem, we have more than 2 labels: *setosa*, *versicolor*, *virginica*.",
+	"IRIS_FEATURES": "We have **4** features: *sepal length*, *sepal width*, *petal length*, *petal width*.",
+	"IRIS_SAMPLES": "We have **150** samples: 150 flowers with observed target are used for this ML experiment.",
+	"DIGITS_LEARNING_0": "It's a **Supervised learning** problem, we have a target value which is the digit.",
+	"DIGITS_LEARNING_1": "It's a **Classification** problem, we have to predict the class of unlabeled data. It's a discrete problem.",
+	"DIGITS_LEARNING_2": "It's a **Multiclass classification** problem, we have more than 2 labels: *1*, *2*, ..., *9*, *0*.",
+	"DIGITS_FEATURES": "We have **64** features: *8x8 image* where each feature is the grey scale intensity of a pixel.",
+	"DIGITS_SAMPLES": "We have **1797** samples: 1797 digits with observed target are used for this ML experiment.",
+	"DIABETES_LEARNING_0": "It's a **Supervised learning** problem, we have a target value which is the disease progression.",
+	"DIABETES_LEARNING_1": "It's a **Regression** problem, we have to predict a quantity of unlabeled data. It's a continuous problem.",
+	"DIABETES_FEATURES": "We have **10** features: *age*, *sex*, *body mass index*, *average blood pressur* and 6 *blood serum measurements*.",
+	"DIABETES_SAMPLES": "We have **442** samples: 442 diabetes patients with observed target are used for this ML experiment."
+}
